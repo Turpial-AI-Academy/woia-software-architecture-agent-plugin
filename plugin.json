@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-architecture",
+  "version": "0.5.0",
+  "description": "Audits and evolves software architecture using repository evidence while preserving healthy existing design constraints.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-architecture-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-architecture-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "architecture"
+  ]
+}
