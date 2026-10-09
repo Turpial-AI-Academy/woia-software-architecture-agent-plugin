@@ -1,26 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "architecture",
-  "skill": "architecture",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/architecture-agent-plugin",
-    "version": "1.0.1",
-    "commit": "62fb057b09fcf0b240d22529fb744017162fd8f1"
-  },
-  "migrated_portable_paths": [
-    "skills/architecture/SKILL.md",
-    "skills/architecture/assets/ADR.template.md",
-    "skills/architecture/assets/README.md",
-    "skills/architecture/assets/architecture-report.template.md",
-    "skills/architecture/assets/dependency-map.template.md",
-    "skills/architecture/references/ADR_GUIDE.md",
-    "skills/architecture/references/ARCHITECTURE_STANDARD.md",
-    "skills/architecture/references/DECISION_MATRIX.md",
-    "skills/architecture/references/DISCOVERY_MODEL.md",
-    "skills/architecture/references/README.md",
-    "skills/architecture/references/REVIEW_CHECKLIST.md"
-  ]
+  "skill": "architecture"
 }
